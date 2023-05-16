@@ -1,0 +1,22 @@
+{
+  "link": "https://github.com/lencx/ChatGPT",
+  "name": "ChatGPT Model",
+  "sync_prompts": {
+    "id": "chatgpt_prompts",
+    "last_updated": 1683703784010
+  },
+  "user_custom": {
+    "id": "user_custom",
+    "last_updated": 1684189758616
+  },
+  "sync_custom": [
+    {
+      "name": "1",
+      "protocol": "https",
+      "ext": "json",
+      "path": "github.com/willdelg/gptprompting-v1/blob/main/user_custom",
+      "id": "aec4a2f2e2574787b998dbeca8750d99",
+      "last_updated": 1683881369796
+    }
+  ]
+}

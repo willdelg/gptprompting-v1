@@ -1,0 +1,1 @@
+How do I fix it when Visual Studio is unable to find or open PDB files? If you see a message stating that Visual Studio cannot find or open the PDB file, try using Visual Studio's debugging tool. Go to Tools > Options > Debugging > Symbols and select Microsoft Symbol Servers.
